@@ -1,5 +1,13 @@
-# Origins Ascendants
-An origins plugin for the Origins Ascendants Minecraft server
+# Ch0p5h0p's Origins
+A bukkit origins plugin by Ch0p5h0p
+
+### Implemented Origins
+- Human
+- Elytrian
+
+### TODO
+- More origins
+- GUI
 
 The GUI isn't developed yet, so use the `/setorigin` command 
 
