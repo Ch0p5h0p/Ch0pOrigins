@@ -1,11 +1,11 @@
 # Ch0p5h0p's Origins
 A bukkit origins plugin by Ch0p5h0p
 
-### Implemented Origins
+## Implemented Origins
 - Human
 - Elytrian
 
-### TODO
+## TODO
 - More origins
 - GUI
 
