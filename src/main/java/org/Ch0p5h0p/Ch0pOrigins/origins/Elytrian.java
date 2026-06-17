@@ -8,7 +8,7 @@ import org.bukkit.inventory.ItemStack;
 import org.bukkit.inventory.meta.ItemMeta;
 import org.bukkit.util.Vector;
 import org.Ch0p5h0p.Ch0pOrigins.gui.AbilityDoc;
-import org.originsascendants.originAscendants.player.*;
+import org.Ch0p5h0p.Ch0pOrigins.player.*;
 
 public class Elytrian extends Origin {
 
@@ -18,8 +18,8 @@ public class Elytrian extends Origin {
     private double boostAmount = 3.0;
 
     //counters count up to the cooldown. When the counter equals the cooldown, abilities are available
-    private int primaryCooldown=10;
-    private int secondaryCooldown=10;
+    private final int primaryCooldown=10;
+    private final int secondaryCooldown=10;
     private int primaryCooldownCounter=10;
     private int secondaryCooldownCounter=10;
 

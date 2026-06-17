@@ -10,6 +10,7 @@ public abstract class Origin {
     public AbilityDoc primaryAbilityDoc;
     public AbilityDoc secondaryAbilityDoc;
     public AbilityDoc crouchAbilityDoc;
+    public AbilityDoc passiveAbilityDoc;
 
     /* Once I figure out all of the stats that each origin should have,
        I'll put uninitialized variables and whatnot here. */
