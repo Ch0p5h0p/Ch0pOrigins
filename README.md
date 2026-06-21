@@ -4,6 +4,7 @@ A bukkit origins plugin by Ch0p5h0p
 ## Implemented Origins
 - Human
 - Elytrian
+- Glitch
 
 ## TODO
 - More origins
